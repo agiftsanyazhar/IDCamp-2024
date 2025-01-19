@@ -1,5 +1,3 @@
-import React from "react";
-
 function ContactItemBody({ name, username }) {
   return [
     <div className="contact-item__body" key={username}>
